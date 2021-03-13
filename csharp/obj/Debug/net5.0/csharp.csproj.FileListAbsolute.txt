@@ -1,0 +1,16 @@
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/csharp
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/csharp.deps.json
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/csharp.runtimeconfig.json
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/csharp.runtimeconfig.dev.json
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/csharp.dll
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/ref/csharp.dll
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/csharp.pdb
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/csharp.csprojAssemblyReference.cache
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/csharp.AssemblyInfoInputs.cache
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/csharp.AssemblyInfo.cs
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/csharp.csproj.CoreCompileInputs.cache
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/csharp.dll
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/ref/csharp.dll
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/csharp.pdb
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/csharp.genruntimeconfig.cache
