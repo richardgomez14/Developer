@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
 <head>
+    
     <!--Comentarios-->
     <meta charset="UTF-8">
     <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
@@ -10,27 +13,213 @@
     <title>Softdigital Store</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/style.css">
-    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script>
+
+
+        // $(document).ready(init());
+
+        // function init(){
+        //     $("#btn").click(function(){
+        //         $("#mytable").toggle("fast");
+        //     })
+        // }
+        
+        var lotable = document.getElementById("mytable");
+        
+        var lotable_item = lotable.getElementsByTagNameNS("td");
+
+         
+
+        function click_mark (){
+            alert();
+
+        }
+
+        
+
+    </script>
+
+
+
+        
 </head>
+
 <body>
-  <header>
-      <nav>      </nav>
-    
-</header>
+
+  <header class="page-header">
+      <h1 id="page-softdigital" class="softdigital">Softdigital Store</h1>  
+      <nav>
+        <ul id="main-nav-id"  class="main-nav">
+            <li class="main-nav__item"><a href="index.html">Inicio</a></li>
+            <li class="main-nav__item"><a href="contacto.html">Contacto</a></li>
+            <li class="main-nav__item"><a href="productos.html">Productos</a></li>
+            <li class="main-nav__item"><a href="servicios.html">Servicios</a></li>
+            <li class="main-nav__item"><a href="soporte.html">Soporte</a></li>
+        </ul>
+      </nav>
+  </header>
+
 <main>
+
+    <!-- <button id="btn">Click me</button> -->
+   
+    <table id="mytable" border="1" onclick="click_mark()" >
+
+        <thead>
+            <tr>
+                <td>Lunes</td>
+                <td>Martes</td>
+                <td>Miercoles</td>
+                <td>Jueves</td>
+                <td>Viernes</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+        </thead>
+    
+    </table>
+    
+    <div><br></div>
+    <div><br></div>
+    <div><br></div>
+
     <h1>Proyecto de Desarrollo Web</h1>
     <h2>Tecnología IoT</h2>
     <h3>Tecnología Data Science</h3>
     <a href="https://www.microsoft.com">Microsoft Corporation</a>    
+    
+    <br><br>
+    
+    <div>
+        <label for="co_cli">
+            <span>Código: </span>
+               <input id="co_cli" type="text" name="codigo_cliente" placeholder="Codigo del Cliente" >
+        </label>
+        
+        <br><br>
+                
+        <label for="des_cli">
+            <span>Nombre:</span>
+            <input id="des_cli" type="text" name="nombre_cliente" placeholder="Nombre del Cliente" >
+        </label>    
+
+        <br><br>
+
+        <label for="rif">
+            <span>Rif.: </span>
+            <input id="rif" type="text" name="rif" placeholder=" rif del Cliente" >
+        </label>    
+
+    </div>
+
+    <br><br>
+
+    <form action="">
+
+        <label for="co_cli1">
+            <span>Codigo</span>
+            <input id="co_cli1" name="co_cli1" type="text" placeholder="Codigo del usuario" required>
+        </label>
+        <br><br>
+        <label for="des_cli1">
+            <span>Nombre</span>
+            <input id="des_cli1" name="des_cli1" type="text" placeholder="nombre del usuario" autocomplete="name" required>
+        </label>
+        <br><br>
+        <label for="rif1">
+            <span>Rif.: </span>
+            <input id="rif1" name="rif1" type="text" placeholder=" rif del Cliente" required >
+        </label>    
+        <br><br>
+        <label for="email">
+            <span>email: </span>
+            <input id="email" name="email" type="email" placeholder=" email del Cliente" autocomplete="email" required >
+        </label>    
+        <br><br>
+        <label for="zip">
+            <span>Codigo Postal: </span>
+            <input id="zip" name="zip" type="number" placeholder=" codigo postal" autocomplete="postal-code" required >
+        </label>    
+        <br><br>
+        <label for="pais">
+            <span>Pais: </span>
+            <input id="pais" name="pais" type="text" placeholder=" pais" autocomplete="country-name" required >
+        </label>    
+
+        <br><br>
+        <label for="fecha">
+            <span>Fecha de Ingreso:</span>
+            <input id="fecha" name="fecha" type="date" placeholder=" fecha de ingreso del Cliente" >
+        </label>
+        <br><br>
+        <label for="hora">
+            <span>Hora de Ingreso:</span>
+            <input id="hora" name="hora" type="time" placeholder=" Hora de ingreso del Cliente" >
+        </label>
+        <br><br>
+        <label for="mes">
+            <span>Mes de Ingreso:</span>
+            <input id="mes" name="mes" type="month" placeholder="Mes de Ingreso">
+        </label>
+        <br><br>
+        <label for="semana">
+            <span>semana de ingreso:</span>
+            <input id="semana" name="semana" type="week" placeholder="Semana de Ingreso">
+        </label>
+        <br><br>
+        <label for="calendario">
+            <span>Calendario:</span>
+            <input id="calendario" name="calendario" type="datetime-local" placeholder="Calendario">
+        </label>
+        <br><br>
+        <select name="pais" id="pais">
+            <option value="Venezuela">Venezuela</option>
+            <option value="Estados Unidos">Estados Unidos</option>
+            <option value="Panama">Panama</option>
+            <option value="Portugal">Portugal</option>           
+        </select>
+        <br><br>
+        <input list="pais1" name="pais1" >
+        <datalist id="pais1">
+            <option value="Venezuela">Venezuela</option>
+            <option value="Estados Unidos">Estados Unidos</option>
+            <option value="Panama">Panama</option>
+            <option value="Portugal">Portugal</option>           
+        </datalist>
+
+        <br><br>
+           <input type="submit" value="Send">
+           <button type="submit">Enviar</button>
+
+    </form>
 
     <section>
         <article>
 
         </article>
-
-        
+        <figure>
+            <img src="./Images/nasa.jpg"
+            alt="Imagen No Existe" width="350px" height="350px">
+            <figcaption>Esta es la imagen de un Robot en Marte</figcaption>
+            
+            <!--<video src="./Videos/AI.mp4#t=10,60" controls preload="auto" width="400px" height="400px"></video>-->
+           
+            
+            <!-- <video src=""></video> -->
+            
+            <video controls preload="auto" width="350px" height="350px">
+                <source src="./Videos/AI.mp4#t=10,60" />
+            </video>
+             
+        </figure>
     </section>
-        
+    
     <ul>
         <li>Programadores Git Hub en Venezuela</li>
         <br>
@@ -48,32 +237,36 @@
         </ol>
     </ul>
     
-    
-
 </main>
+
 <footer>
+
+    <p id="id1">
+        Ñañito es Ñoño <br><br>
+    </p>
+    
+    <p class="class1">
+        Ricardo Gómez <br><br>
+        Marina Camargo <br><br>
+        Patricia Gómez <br><br>
+        Richard Alexander Gómez Camargo <br><br>
+        Ronald Gómez <br><br>
+        
+    </p>
+ 
+    <p class="class2">
+        Regino Rojas <br><br>
+        Zulay Rojas <br><br>
+        Reinaldo Rojas <br><br>
+        Christian Rojas <br><br>
+        Diana Carolina Rojas Sanabria <br><br>
+        Jesus Rojas <br><br>
+        Gustavo Rojas <br><br>
+        Marcos Efrain Gómez Rojas <br><br>
+    </p>
 
 </footer>
 
-<p>  
-    Ñañito es Ñoño <br><br>
-    Richard Alexander Gómez Camargo <br><br>
-    Marcos Efrain Gómez Rojas <br><br>
-    Diana Carolina Rojas Sanabria <br><br>
-    Regino Rojas <br><br>
-    Zulay Rojas <br><br>
-    Gustavo Rojas <br><br>
-    Christian Rojas <br><br>
-    Marina Camargo <br><br>
-    Ricardo Gómez <br><br>
-    Ronald Gómez <br><br>
-    Patricia Gómez <br><br>
-    Ricardo Gómez <br><br>
-    Jesus Rojas <br><br>
-
-</p>  
-
+    
 </body>
 </html>
-
-

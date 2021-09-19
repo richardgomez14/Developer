@@ -1,0 +1,16 @@
+/home/softdigital/Escritorio/Developer/TestCsharp2/bin/Debug/net5.0/TestCsharp2
+/home/softdigital/Escritorio/Developer/TestCsharp2/bin/Debug/net5.0/TestCsharp2.deps.json
+/home/softdigital/Escritorio/Developer/TestCsharp2/bin/Debug/net5.0/TestCsharp2.runtimeconfig.json
+/home/softdigital/Escritorio/Developer/TestCsharp2/bin/Debug/net5.0/TestCsharp2.runtimeconfig.dev.json
+/home/softdigital/Escritorio/Developer/TestCsharp2/bin/Debug/net5.0/TestCsharp2.dll
+/home/softdigital/Escritorio/Developer/TestCsharp2/bin/Debug/net5.0/ref/TestCsharp2.dll
+/home/softdigital/Escritorio/Developer/TestCsharp2/bin/Debug/net5.0/TestCsharp2.pdb
+/home/softdigital/Escritorio/Developer/TestCsharp2/obj/Debug/net5.0/TestCsharp2.csproj.AssemblyReference.cache
+/home/softdigital/Escritorio/Developer/TestCsharp2/obj/Debug/net5.0/TestCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/softdigital/Escritorio/Developer/TestCsharp2/obj/Debug/net5.0/TestCsharp2.AssemblyInfoInputs.cache
+/home/softdigital/Escritorio/Developer/TestCsharp2/obj/Debug/net5.0/TestCsharp2.AssemblyInfo.cs
+/home/softdigital/Escritorio/Developer/TestCsharp2/obj/Debug/net5.0/TestCsharp2.csproj.CoreCompileInputs.cache
+/home/softdigital/Escritorio/Developer/TestCsharp2/obj/Debug/net5.0/TestCsharp2.dll
+/home/softdigital/Escritorio/Developer/TestCsharp2/obj/Debug/net5.0/ref/TestCsharp2.dll
+/home/softdigital/Escritorio/Developer/TestCsharp2/obj/Debug/net5.0/TestCsharp2.pdb
+/home/softdigital/Escritorio/Developer/TestCsharp2/obj/Debug/net5.0/TestCsharp2.genruntimeconfig.cache

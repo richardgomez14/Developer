@@ -1,0 +1,16 @@
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/Regino
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/Regino.deps.json
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/Regino.runtimeconfig.json
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/Regino.runtimeconfig.dev.json
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/Regino.dll
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/ref/Regino.dll
+/home/softdigital/Escritorio/Developer/csharp/bin/Debug/net5.0/Regino.pdb
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/Regino.csproj.AssemblyReference.cache
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/Regino.GeneratedMSBuildEditorConfig.editorconfig
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/Regino.AssemblyInfoInputs.cache
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/Regino.AssemblyInfo.cs
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/Regino.csproj.CoreCompileInputs.cache
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/Regino.dll
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/ref/Regino.dll
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/Regino.pdb
+/home/softdigital/Escritorio/Developer/csharp/obj/Debug/net5.0/Regino.genruntimeconfig.cache

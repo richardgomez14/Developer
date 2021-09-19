@@ -1,0 +1,117 @@
+p {
+    color: crimson;
+    font-size: 16px;
+}
+
+
+#id1{
+
+    color: darkgreen;
+    font-size: 18px;
+}
+
+.class1{
+
+    color:mediumblue;
+    font-size: 14px;
+}
+
+.class2{
+
+    color: orange;
+    font-size: 12px;
+}
+
+
+.main-nav{
+
+    margin-top: 10px;
+    list-style: none;
+    /*color: orange;*/
+    padding-left: 0px;
+    background-color: rgba(70, 75, 71, 0.994);
+
+}
+
+.main-nav__item{
+
+    display: inline-block;   
+
+}
+
+.main-nav__item a {
+
+    color: rgb(241, 234, 12);
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+
+}
+
+.main-nav__item a:hover{
+
+    color: red;
+}
+
+.main-nav__item a:active {
+
+    color: rgb(11, 8, 187);
+}
+
+.main-nav__item a::after {
+
+    content: "|";
+    padding: 12px;
+}
+
+main{
+
+    width: 50%;
+    height: 1850px;
+    border: 10px solid grey;
+    padding: 20px 35px;
+
+
+}
+
+
+section{
+
+    margin-top: 10px;
+    width: 100%;
+    border: 10px solid grey;
+    padding: 20px 35px;
+   
+}
+
+*{
+    margin: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    
+}
+
+html{
+  font-size: 75% ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+
+    color: deeppink;
+    /*font-size: inherit;*/
+}
+
+#page-softdigital{
+
+    font-size: 40px;
+    color: mediumblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+
+#mytable{
+
+    cursor: pointer;
+}
+

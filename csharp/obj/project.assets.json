@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/softdigital/Escritorio/Developer/csharp/csharp.csproj",
-      "projectName": "csharp",
-      "projectPath": "/home/softdigital/Escritorio/Developer/csharp/csharp.csproj",
+      "projectUniqueName": "/home/softdigital/Escritorio/Developer/csharp/Regino.csproj",
+      "projectName": "Regino",
+      "projectPath": "/home/softdigital/Escritorio/Developer/csharp/Regino.csproj",
       "packagesPath": "/home/softdigital/.nuget/packages/",
       "outputPath": "/home/softdigital/Escritorio/Developer/csharp/obj/",
       "projectStyle": "PackageReference",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
